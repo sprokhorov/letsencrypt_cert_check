@@ -5,7 +5,7 @@ import smtplib
 
 softline = 10
 deadline = 2
-email_receivers = ['sprokhorov@blondinka.ru']
+email_receivers = ['sprokhorov@example.com']
 cert_path = '/etc/letsencrypt/live/'
 
 
