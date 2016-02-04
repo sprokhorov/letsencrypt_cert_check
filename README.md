@@ -1,5 +1,5 @@
 # letsencrypt_cert_check
-This is simple python scrypt to check letsencrypt certificate end date and send notification email to you.
+This is simple python script to check letsencrypt certificate end date and send notification email to you.
 
 ## System requirements
 - openssl
